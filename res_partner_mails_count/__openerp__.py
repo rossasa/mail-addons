@@ -2,7 +2,7 @@
 {
     "name": """Partner mails count""",
     "summary": """Displays amount of incoming and outgoing partner mails.""",
-    "category": "Sales Management",
+    "category": "Discuss",
     "images": ['images/1.png'],
     "version": "1.0.0",
 
@@ -14,8 +14,8 @@
 
     "depends": [
         'base',
-        'mail' ,
-        'web_tour_extra' ,
+        'mail',
+        'web_tour_extra',
     ],
     "external_dependencies": {"python": [], "bin": []},
     "data": [
